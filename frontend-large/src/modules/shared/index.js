@@ -1,1 +1,3 @@
-import './shared.module.css';
+import './shared.css';
+
+export { BaseLayout } from './layout'
